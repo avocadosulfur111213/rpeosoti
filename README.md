@@ -1,7 +1,7 @@
 # School Heaven
 
 **About**<br>
-Hello! I am the creator of School Heaven, It is a website with games, music, anime, and more!  School Heaven website is still under development and I will have more things and features. If you want to suggest something e-mail ilyas.nekrasov@gmail.com or use the suggest channel.
+Hello! I am NOT the creator of School Heaven,this is a fork. It is a website with games, music, anime, and more!  School Heaven website is still under development and I will have more things and features. If you want to suggest something e-mail ilyas.nekrasov@gmail.com or use the suggest channel.
 <br><br>
 **My Socials**<br>
 Discord: https://discord.com/invite/seWhGy6HWQ<br>
